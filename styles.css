@@ -1,0 +1,39 @@
+
+/* add your CSS here */
+
+li {
+	list-style: none;
+}
+ul{
+	padding: 0;
+}
+
+img{
+	padding-bottom: 20px;
+}
+#name{
+	font-size: 23px;
+}
+
+.content{
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+
+.main{
+	border: 1px solid #ccc;
+	width: 300px;
+	padding: 20px;
+	-moz-box-shadow: 0 0 3px #ccc;
+	-webkit-box-shadow: 0 0 3px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
+	
+}
+
+#fact{
+	font-style: italic;
+}
+
+.custList{
+	font-weight: bold;
+}
